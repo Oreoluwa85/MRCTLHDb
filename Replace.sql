@@ -1,0 +1,1 @@
+update blastp100213 SET TSeq_orgname = REPLACE(TSeq_orgname, '"','')
